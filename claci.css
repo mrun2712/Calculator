@@ -1,0 +1,31 @@
+
+.calculator {
+  width: 450px;
+  height: 350px;
+  background-color: white;
+  border:solid black;
+  padding: 0;
+  margin: 5px;
+  text-align: center;
+}
+body{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+#display {
+  width: 420px;
+  height: 40px;
+  text-align: right;
+  background-color: white;
+  border: 3px solid black;
+  font-size: 23px;
+  color: black;
+}
+.btn{
+  color: black;
+  background-color: darkgray;
+  font-size: 20px;
+  margin: auto;
+  width: 70px;
+  height: 30px;
+}
